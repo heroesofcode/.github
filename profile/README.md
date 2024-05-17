@@ -1,1 +1,1 @@
-Hereos of Code is an organization for Open Source projects. The organization's current developers are [João Lucas](https://github.com/joaolfp) and [Pedro Henrique](https://github.com/pedrohfp). We build projects for Swift, Kotlin, Rust, Python and Shell Script.
+<b>Hereos of Code</b> is an organization for Open Source projects. The organization's current developers are [João Lucas](https://github.com/joaolfp) and [Pedro Henrique](https://github.com/pedrohfp). We build projects for Swift, Kotlin, Rust, Python and Shell Script.
